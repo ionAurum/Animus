@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Animus.Core/Animus.Core.csproj" Id="8c83e395-9426-4b0b-87fe-d292b1c5a7e8" />
+  <Project Path="Animus.Tests/Animus.Tests.csproj" />
+  <Project Path="Animus/Animus.csproj" />
+</Solution>
